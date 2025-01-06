@@ -16,3 +16,7 @@ path = "src/example/hello.rs"
 [[example]]
 name = "variable"
 path = "src/example/variable.rs"
+
+[[example]]
+name = "val"
+path = "src/example/val.rs"
