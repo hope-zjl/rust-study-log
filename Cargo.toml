@@ -20,3 +20,7 @@ path = "src/example/variable.rs"
 [[example]]
 name = "val"
 path = "src/example/val.rs"
+
+[[example]]
+name = "operation"
+path = "src/example/operation.rs"
