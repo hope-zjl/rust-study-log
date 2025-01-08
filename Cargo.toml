@@ -24,3 +24,7 @@ path = "src/example/val.rs"
 [[example]]
 name = "operation"
 path = "src/example/operation.rs"
+
+[[example]]
+name = "derivation"
+path = "src/example/derivation.rs"
