@@ -12,10 +12,10 @@ fn main() {
     // 浮点数
     let f: f32 = 3.14;
     println!("f: {f}");
-    // 浮点数
+    // Char
     let c: char = '😂';
     println!("c: {c}");
-    // 浮点数
+    // Bool
     let b: bool = 1 == 2;
     println!("b: {b}");
     // 拓展
