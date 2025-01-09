@@ -28,3 +28,7 @@ path = "src/example/operation.rs"
 [[example]]
 name = "derivation"
 path = "src/example/derivation.rs"
+
+[[example]]
+name = "fibonacci"
+path = "src/example/fibonacci.rs"
