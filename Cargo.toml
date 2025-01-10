@@ -32,3 +32,11 @@ path = "src/example/derivation.rs"
 [[example]]
 name = "fibonacci"
 path = "src/example/fibonacci.rs"
+
+[[example]]
+name = "if"
+path = "src/example/if.rs"
+
+[[example]]
+name = "cycle"
+path = "src/example/cycle.rs"
