@@ -3,7 +3,6 @@
 /// cargo run --example cycle
 /// ```
 fn main() {
-    println!(">>>>");
     // while
     while_cycle();
     // for
@@ -36,7 +35,7 @@ fn loop_cycle() {
         i += 1;
         println!("{i}");
         if i > 100 {
-            break;
+            break; // break  跳出循环
         }
     }
 }
