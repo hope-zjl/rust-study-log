@@ -44,3 +44,7 @@ path = "src/example/cycle.rs"
 [[example]]
 name = "breakOrContinue"
 path = "src/example/breakOrContinue.rs"
+
+[[example]]
+name = "labels"
+path = "src/example/labels.rs"
