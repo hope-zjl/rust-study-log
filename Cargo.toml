@@ -48,3 +48,7 @@ path = "src/example/breakOrContinue.rs"
 [[example]]
 name = "labels"
 path = "src/example/labels.rs"
+
+[[example]]
+name = "scope"
+path = "src/example/scope.rs"
