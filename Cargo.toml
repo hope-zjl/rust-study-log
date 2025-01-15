@@ -52,3 +52,7 @@ path = "src/example/labels.rs"
 [[example]]
 name = "scope"
 path = "src/example/scope.rs"
+
+[[example]]
+name = "koraz"
+path = "src/example/koraz.rs"
