@@ -60,3 +60,7 @@ path = "src/example/koraz.rs"
 [[example]]
 name = "fun"
 path = "src/example/fun.rs"
+
+[[example]]
+name = "macro"
+path = "src/example/macro.rs"
