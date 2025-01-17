@@ -72,3 +72,7 @@ path = "src/example/arr.rs"
 [[example]]
 name = "tup"
 path = "src/example/tup.rs"
+
+[[example]]
+name = "arr_for"
+path = "src/example/arr_for.rs"
