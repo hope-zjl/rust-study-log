@@ -68,3 +68,7 @@ path = "src/example/macro.rs"
 [[example]]
 name = "arr"
 path = "src/example/arr.rs"
+
+[[example]]
+name = "tup"
+path = "src/example/tup.rs"
