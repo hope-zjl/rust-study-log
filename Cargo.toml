@@ -6,7 +6,7 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "variable"
+name = "init"
 path = "src/main.rs"
 
 [[example]]
