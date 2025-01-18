@@ -13,7 +13,7 @@ fn main() {
     shadowing();
 }
 
-// 作用域喝遮蔽
+// 作用域和遮蔽
 fn shadowing() {
     let a = 10;
     {
