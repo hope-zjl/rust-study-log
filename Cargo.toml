@@ -80,3 +80,7 @@ path = "src/example/arr_for.rs"
 [[example]]
 name = "deconstruct"
 path = "src/example/deconstruct.rs"
+
+[[example]]
+name = "nested"
+path = "src/example/nested.rs"

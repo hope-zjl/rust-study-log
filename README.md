@@ -29,8 +29,10 @@
 
 #### 元组和数组
 
-|                  页面                  |  说明  |
-|:------------------------------------:|:----:|
-|     [arr.rs](src/example/arr.rs)     |  数组  |
-|     [tup.rs](src/example/tup.rs)     |  元组  |
-| [arr_for.rs](src/example/arr_for.rs) | 数组迭代 |
+|                      页面                      |  说明  |
+|:--------------------------------------------:|:----:|
+|         [arr.rs](src/example/arr.rs)         |  数组  |
+|         [tup.rs](src/example/tup.rs)         |  元组  |
+|     [arr_for.rs](src/example/arr_for.rs)     | 数组迭代 |
+| [deconstruct.rs](src/example/deconstruct.rs) |  结构  |
+|      [nested.rs](src/example/nested.rs)      | 练习题  |
