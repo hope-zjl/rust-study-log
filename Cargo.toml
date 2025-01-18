@@ -11,76 +11,76 @@ path = "src/main.rs"
 
 [[example]]
 name = "hello"
-path = "src/example/hello.rs"
+path = "src/example/type_value/hello.rs"
 
 [[example]]
 name = "variable"
-path = "src/example/variable.rs"
+path = "src/example/type_value/variable.rs"
 
 [[example]]
 name = "val"
-path = "src/example/val.rs"
+path = "src/example/type_value/val.rs"
 
 [[example]]
 name = "operation"
-path = "src/example/operation.rs"
+path = "src/example/type_value/operation.rs"
 
 [[example]]
 name = "derivation"
-path = "src/example/derivation.rs"
+path = "src/example/type_value/derivation.rs"
 
 [[example]]
 name = "fibonacci"
-path = "src/example/fibonacci.rs"
+path = "src/example/type_value/fibonacci.rs"
 
 [[example]]
 name = "if"
-path = "src/example/if.rs"
+path = "src/example/control_flow_basics/if.rs"
 
 [[example]]
 name = "cycle"
-path = "src/example/cycle.rs"
+path = "src/example/control_flow_basics/cycle.rs"
 
 [[example]]
 name = "breakOrContinue"
-path = "src/example/breakOrContinue.rs"
+path = "src/example/control_flow_basics/break_or_continue.rs"
 
 [[example]]
 name = "labels"
-path = "src/example/labels.rs"
+path = "src/example/control_flow_basics/labels.rs"
 
 [[example]]
 name = "scope"
-path = "src/example/scope.rs"
+path = "src/example/control_flow_basics/scope.rs"
 
 [[example]]
 name = "koraz"
-path = "src/example/koraz.rs"
+path = "src/example/control_flow_basics/koraz.rs"
 
 [[example]]
 name = "fun"
-path = "src/example/fun.rs"
+path = "src/example/control_flow_basics/fun.rs"
 
 [[example]]
 name = "macro"
-path = "src/example/macro.rs"
+path = "src/example/control_flow_basics/macro.rs"
 
 [[example]]
 name = "arr"
-path = "src/example/arr.rs"
+path = "src/example/tup_arr/arr.rs"
 
 [[example]]
 name = "tup"
-path = "src/example/tup.rs"
+path = "src/example/tup_arr/tup.rs"
 
 [[example]]
 name = "arr_for"
-path = "src/example/arr_for.rs"
+path = "src/example/tup_arr/arr_for.rs"
 
 [[example]]
 name = "deconstruct"
-path = "src/example/deconstruct.rs"
+path = "src/example/tup_arr/deconstruct.rs"
 
 [[example]]
 name = "nested"
-path = "src/example/nested.rs"
+path = "src/example/tup_arr/nested.rs"
