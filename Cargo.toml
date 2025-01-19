@@ -88,3 +88,7 @@ path = "src/example/tup_arr/nested.rs"
 [[example]]
 name = "shared"
 path = "src/example/quote/shared.rs"
+
+[[example]]
+name = "exclusive"
+path = "src/example/quote/exclusive.rs"
