@@ -4,6 +4,7 @@
 - [控制流基础](#控制流基础)
 - [元组和数组](#元组和数组)
 - [引用](#引用)
+- [用户定义类型](#用户定义类型)
 
 #### [类型和值](src/example/type_value)
 
@@ -47,3 +48,9 @@
 | [exclusive.rs](src/example/quote/exclusive.rs) | 独占引用 |
 |    [slices.rs](src/example/quote/slices.rs)    |  切片  |
 |  [geometry.rs](src/example/quote/geometry.rs)  | 练习题  |
+
+#### [用户定义类型](src/example/customize_type)
+
+|                         页面                          | 说明  |
+|:---------------------------------------------------:|:---:|
+| [structs.rs](src/example/customize_type/structs.rs) | 结构体 |
