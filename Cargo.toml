@@ -92,3 +92,7 @@ path = "src/example/quote/shared.rs"
 [[example]]
 name = "exclusive"
 path = "src/example/quote/exclusive.rs"
+
+[[example]]
+name = "slices"
+path = "src/example/quote/slices.rs"

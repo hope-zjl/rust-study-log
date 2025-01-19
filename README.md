@@ -45,3 +45,4 @@
 |:----------------------------------------------:|:----:|
 |    [shared.rs](src/example/quote/shared.rs)    | 共享引用 |
 | [exclusive.rs](src/example/quote/exclusive.rs) | 独占引用 |
+|    [slices.rs](src/example/quote/slices.rs)    |  切片  |
