@@ -1,7 +1,9 @@
 /// ```
 /// # 启动命令
-/// cargo run --example deconstruct
+///  cargo run --example deconstruct
+///
 /// ```
+
 fn main() {
     dup_deconstruct((15, 20));
     deconstruct_dup((70, 80));

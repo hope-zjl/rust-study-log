@@ -1,3 +1,9 @@
+/// ```
+/// # 启动命令
+///  cargo run --example fibonacci
+///
+/// ```
+
 struct Person {
     name: String,
     age: u8,

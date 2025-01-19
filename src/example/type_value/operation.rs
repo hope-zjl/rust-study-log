@@ -1,6 +1,7 @@
 /// ```  
 /// # 启动命令
-/// cargo run --example operation
+///  cargo run --example operation
+///
 /// ```
 fn main() {
     println!("结果: {}", interproduct(10, 50, 60));

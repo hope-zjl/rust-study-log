@@ -1,7 +1,9 @@
 /// ```
 /// # 启动命令
-/// cargo run --example arr
+///  cargo run --example arr
+///
 /// ```
+
 fn main() {
     let mut a: [i32; 10] = [19; 10];
     a[4] = 2;

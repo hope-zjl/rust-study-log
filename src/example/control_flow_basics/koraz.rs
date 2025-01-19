@@ -1,7 +1,9 @@
 /// ```  
 /// # 启动命令
-/// cargo run --example koraz
+///  cargo run --example koraz
+///
 /// ```
+
 fn main() {
     println!("len: {}", collatz_length(4564685));
 }

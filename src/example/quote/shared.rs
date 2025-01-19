@@ -1,7 +1,9 @@
 /// ```
 /// # 启动命令
-/// cargo run --example shared
+///  cargo run --example shared
+///
 /// ```
+
 fn main() {
     let a = 'A';
     let b = 'B';

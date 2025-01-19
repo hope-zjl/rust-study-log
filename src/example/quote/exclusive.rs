@@ -1,7 +1,9 @@
 /// ```
 /// # 启动命令
 ///  cargo run --example exclusive
+///
 /// ```
+
 fn main() {
     let mut po = (2, 7);
     let x_coo = &mut po.0;

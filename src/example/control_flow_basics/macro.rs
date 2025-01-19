@@ -1,7 +1,9 @@
 /// ```
 /// # 启动命令
-/// cargo run --example macro
+///  cargo run --example macro
+///
 /// ```
+
 fn main() {
     let n = 4;
     println!("{n}! = {}", factorial(n));

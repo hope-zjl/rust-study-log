@@ -1,7 +1,9 @@
 /// ```  
 /// # 启动命令
-/// cargo run --example breakOrContinue
+///  cargo run --example breakOrContinue
+///
 /// ```
+
 fn main() {
     let mut i = 0;
     loop {

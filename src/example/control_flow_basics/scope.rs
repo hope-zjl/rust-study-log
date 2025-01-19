@@ -1,7 +1,9 @@
 /// ```  
 /// # 启动命令
-/// cargo run --example scope
+///  cargo run --example scope
+///
 /// ```
+
 fn main() {
     let z = 10;
     let x = {

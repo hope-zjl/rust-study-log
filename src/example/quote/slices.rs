@@ -1,7 +1,9 @@
 /// ```
 /// # 启动命令
 ///  cargo run --example slices
+///
 /// ```
+
 fn main() {
     let a = [40, 60, 40, 82, 90, 77];
     println!("a: {a:?}");

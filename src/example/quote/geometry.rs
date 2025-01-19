@@ -1,6 +1,7 @@
 /// ```
 /// # 启动命令
 ///  cargo run --example geometry
+///
 /// ```
 
 // Calculate the magnitude of a vector by summing the squares of its coordinates

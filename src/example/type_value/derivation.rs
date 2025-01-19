@@ -1,6 +1,7 @@
 /// ```  
 /// # 启动命令
-/// cargo run --example derivation
+///  cargo run --example derivation
+///
 /// ```
 fn takes_u32(x: u32) {
     println!("u32: {x}");

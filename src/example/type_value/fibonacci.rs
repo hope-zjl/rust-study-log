@@ -1,6 +1,7 @@
 /// ```  
 /// # 启动命令
-/// cargo run --example fibonacci
+///  cargo run --example fibonacci
+///
 /// ```
 fn main() {
     let n = 20;

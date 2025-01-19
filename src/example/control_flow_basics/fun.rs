@@ -1,7 +1,9 @@
 /// ```
 /// # 启动命令
-/// cargo run --example fun
+///  cargo run --example fun
+///
 /// ```
+
 fn main() {
     println!("gcb: {}", gcb(99, 70));
 }

@@ -1,6 +1,7 @@
 /// ```  
 /// # 启动命令
-/// cargo run --example val
+///  cargo run --example val
+///
 /// ```
 fn main() {
     // 有符号

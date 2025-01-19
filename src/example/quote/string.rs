@@ -1,7 +1,9 @@
 /// ```
 /// # 启动命令
 ///  cargo run --example string
+///
 /// ```
+
 fn main() {
     let s1 = "World";
     println!("{s1}");

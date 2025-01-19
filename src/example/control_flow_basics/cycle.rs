@@ -1,7 +1,9 @@
 /// ```  
 /// # 启动命令
-/// cargo run --example cycle
+///  cargo run --example cycle
+///
 /// ```
+
 fn main() {
     // while
     while_cycle();
