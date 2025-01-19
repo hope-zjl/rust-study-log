@@ -100,3 +100,7 @@ path = "src/example/quote/slices.rs"
 [[example]]
 name = "string"
 path = "src/example/quote/string.rs"
+
+[[example]]
+name = "geometry"
+path = "src/example/quote/geometry.rs"
