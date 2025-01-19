@@ -3,6 +3,7 @@
 - [类型和值](#类型和值)
 - [控制流基础](#控制流基础)
 - [元组和数组](#元组和数组)
+- [引用](#引用)
 
 #### [类型和值](src/example/type_value)
 
@@ -37,3 +38,9 @@
 |     [arr_for.rs](src/example/tup_arr/arr_for.rs)     | 数组迭代 |
 | [deconstruct.rs](src/example/tup_arr/deconstruct.rs) |  结构  |
 |      [nested.rs](src/example/tup_arr/nested.rs)      | 练习题  |
+
+#### [引用](src/example/quote)
+
+|                    页面                    |  说明  |
+|:----------------------------------------:|:----:|
+| [shared.rs](src/example/quote/shared.rs) | 共享引用 |

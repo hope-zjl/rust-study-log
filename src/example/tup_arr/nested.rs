@@ -1,5 +1,7 @@
-// TODO: remove this when you're done with your implementation.
-#![allow(unused_variables, dead_code)]
+/// ```
+/// # 启动命令
+/// cargo run --example nested
+/// ```
 
 fn transpose(matrix: [[i32; 3]; 3]) -> [[i32; 3]; 3] {
     let mut x: [[i32; 3]; 3] = [[0; 3]; 3];
