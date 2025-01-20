@@ -108,3 +108,7 @@ path = "src/example/quote/geometry.rs"
 [[example]]
 name = "structs"
 path = "src/example/customize_type/structs.rs"
+
+[[example]]
+name = "tup_structs"
+path = "src/example/customize_type/tup_structs.rs"
