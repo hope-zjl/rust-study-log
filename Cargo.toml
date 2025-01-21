@@ -132,3 +132,7 @@ path = "src/example/customize_type/type_alias.rs"
 [[example]]
 name = "elevator_incident"
 path = "src/example/customize_type/elevator_incident.rs"
+
+[[example]]
+name = "matching_values"
+path = "src/example/pattern_matching/matching_values.rs"

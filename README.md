@@ -5,6 +5,7 @@
 - [元组和数组](#元组和数组)
 - [引用](#引用)
 - [用户定义类型](#用户定义类型)
+- [模式匹配](#模式匹配)
 
 #### [类型和值](src/example/type_value)
 
@@ -60,3 +61,9 @@
 |            [consts.rs](src/example/customize_type/consts.rs)            | **常量**  |
 |        [type_alias.rs](src/example/customize_type/type_alias.rs)        |  类型别名   |
 | [elevator_incident.rs](src/example/customize_type/elevator_incident.rs) | **练习题** |
+
+#### [模式匹配](src/example/pattern_matching)
+
+|                                  页面                                   | 说明  |
+|:---------------------------------------------------------------------:|:---:|
+| [matching_values.rs](src/example/pattern_matching/matching_values.rs) | 匹配值 |
