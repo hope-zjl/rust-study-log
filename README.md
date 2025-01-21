@@ -56,3 +56,4 @@
 |     [structs.rs](src/example/customize_type/structs.rs)     |  结构体  |
 | [tup_structs.rs](src/example/customize_type/tup_structs.rs) | 元组结构体 |
 |       [enums.rs](src/example/customize_type/enums.rs)       |  枚举   |
+|     [statics.rs](src/example/customize_type/statics.rs)     | 静态变量  |
