@@ -58,3 +58,4 @@
 |       [enums.rs](src/example/customize_type/enums.rs)       |   枚举   |
 |     [statics.rs](src/example/customize_type/statics.rs)     |  静态变量  |
 |      [consts.rs](src/example/customize_type/consts.rs)      | **常量** |
+|  [type_alias.rs](src/example/customize_type/type_alias.rs)  |  类型别名  |

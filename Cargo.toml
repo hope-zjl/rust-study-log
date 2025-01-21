@@ -124,3 +124,7 @@ path = "src/example/customize_type/statics.rs"
 [[example]]
 name = "consts"
 path = "src/example/customize_type/consts.rs"
+
+[[example]]
+name = "type_alias"
+path = "src/example/customize_type/type_alias.rs"
