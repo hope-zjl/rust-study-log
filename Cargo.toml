@@ -120,3 +120,7 @@ path = "src/example/customize_type/enums.rs"
 [[example]]
 name = "statics"
 path = "src/example/customize_type/statics.rs"
+
+[[example]]
+name = "consts"
+path = "src/example/customize_type/consts.rs"
