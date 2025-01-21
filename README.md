@@ -51,11 +51,12 @@
 
 #### [用户定义类型](src/example/customize_type)
 
-|                             页面                              |   说明   |
-|:-----------------------------------------------------------:|:------:|
-|     [structs.rs](src/example/customize_type/structs.rs)     |  结构体   |
-| [tup_structs.rs](src/example/customize_type/tup_structs.rs) | 元组结构体  |
-|       [enums.rs](src/example/customize_type/enums.rs)       |   枚举   |
-|     [statics.rs](src/example/customize_type/statics.rs)     |  静态变量  |
-|      [consts.rs](src/example/customize_type/consts.rs)      | **常量** |
-|  [type_alias.rs](src/example/customize_type/type_alias.rs)  |  类型别名  |
+|                                   页面                                    |   说明    |
+|:-----------------------------------------------------------------------:|:-------:|
+|           [structs.rs](src/example/customize_type/structs.rs)           |   结构体   |
+|       [tup_structs.rs](src/example/customize_type/tup_structs.rs)       |  元组结构体  |
+|             [enums.rs](src/example/customize_type/enums.rs)             |   枚举    |
+|           [statics.rs](src/example/customize_type/statics.rs)           |  静态变量   |
+|            [consts.rs](src/example/customize_type/consts.rs)            | **常量**  |
+|        [type_alias.rs](src/example/customize_type/type_alias.rs)        |  类型别名   |
+| [elevator_incident.rs](src/example/customize_type/elevator_incident.rs) | **练习题** |
