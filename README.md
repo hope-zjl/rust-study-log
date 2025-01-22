@@ -67,3 +67,4 @@
 |                                  页面                                   | 说明  |
 |:---------------------------------------------------------------------:|:---:|
 | [matching_values.rs](src/example/pattern_matching/matching_values.rs) | 匹配值 |
+|     [deconstruct.rs](src/example/pattern_matching/deconstruct_match.rs)     | 解构  |
