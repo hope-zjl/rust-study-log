@@ -140,3 +140,7 @@ path = "src/example/pattern_matching/matching_values.rs"
 [[example]]
 name = "deconstruct_match"
 path = "src/example/pattern_matching/deconstruct_match.rs"
+
+[[example]]
+name = "let_control_flow"
+path = "src/example/pattern_matching/let_control_flow.rs"

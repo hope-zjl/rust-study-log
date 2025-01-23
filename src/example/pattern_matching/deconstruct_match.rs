@@ -1,3 +1,9 @@
+/// ```
+/// # 启动命令
+///  cargo run --example deconstruct_match
+///
+/// ```
+
 struct Foo {
     x: (u32, u32),
     y: u32,
