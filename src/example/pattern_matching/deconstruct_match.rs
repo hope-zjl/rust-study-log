@@ -3,6 +3,19 @@ struct Foo {
     y: u32,
 }
 
+enum Result {
+    Ok(i32),
+    Err(String),
+}
+
+fn divide_in_two(n: i32) -> Result {
+    if n % 2 == 0 {
+        Result::Ok(n / 2)
+    } else {
+        Result::Err(format!("n is divisible by 2{n}"))
+    }
+}
+
 fn main() {
     let foo = Foo { x: (1, 2), y: 3 };
     match foo {
@@ -13,5 +26,11 @@ fn main() {
         ),
         Foo { y: 3, .. } => println!("y: {}, x.0: {}", foo.y, foo.x.0),
         _ => {}
+    }
+
+    let n = 100;
+    match divide_in_two(n) {
+        Result::Ok(result) => println!("result: {}", result),
+        Result::Err(e) => println!("error: {}", e),
     }
 }
