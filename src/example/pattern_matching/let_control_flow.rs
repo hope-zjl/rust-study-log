@@ -8,6 +8,8 @@ fn main() {
     sleep_for(-10.0);
     sleep_for(0.0);
     println!("result: {:?}", hex_or_die_trying(Some(String::from("foo"))));
+    while_flow();
+    if_flow();
 }
 
 fn sleep_for(secs: f64) {
@@ -34,5 +36,21 @@ fn hex_or_die_trying(maybe_string: Option<String>) -> Result<u32, String> {
         Ok(digit)
     } else {
         Err(String::from("Must be 16 digits"))
+    }
+}
+
+fn while_flow() {
+    let mut name = String::from("Comprehensive Rust 🦀");
+    while let Some(val) = name.pop() {
+        println!("val: {}", val);
+    }
+}
+
+fn if_flow() {
+    let num = Some(17);
+    if let Some(x) = num {
+        println!("{}", x);
+    } else {
+        println!("Must be 17 numbers or less.");
     }
 }
