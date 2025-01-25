@@ -6,6 +6,7 @@
 - [引用](#引用)
 - [用户定义类型](#用户定义类型)
 - [模式匹配](#模式匹配)
+- [方法和特征](#方法和特征)
 
 #### [类型和值](src/example/type_value)
 
@@ -70,3 +71,9 @@
 |        [deconstruct.rs](src/example/pattern_matching/deconstruct_match.rs)        |     解构      |
 |      [let_control_flow.rs](src/example/pattern_matching/let_control_flow.rs)      | **let 控制流** |
 | [expression_evaluation.rs](src/example/pattern_matching/expression_evaluation.rs) |   **练习题**   |
+
+#### [方法和特征](src/example/method_traits)
+
+|                         页面                         | 说明 |
+|:--------------------------------------------------:|:--:|
+| [methods.rs](src/example/method_traits/methods.rs) | 方法 |

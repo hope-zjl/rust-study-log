@@ -148,3 +148,7 @@ path = "src/example/pattern_matching/let_control_flow.rs"
 [[example]]
 name = "expression_evaluation"
 path = "src/example/pattern_matching/expression_evaluation.rs"
+
+[[example]]
+name = "methods"
+path = "src/example/method_traits/methods.rs"
