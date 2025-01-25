@@ -64,8 +64,9 @@
 
 #### [模式匹配](src/example/pattern_matching)
 
-|                                   页面                                    |     说明      |
-|:-----------------------------------------------------------------------:|:-----------:|
-|  [matching_values.rs](src/example/pattern_matching/matching_values.rs)  |     匹配值     |
-|   [deconstruct.rs](src/example/pattern_matching/deconstruct_match.rs)   |     解构      |
-| [let_control_flow.rs](src/example/pattern_matching/let_control_flow.rs) | **let 控制流** |
+|                                        页面                                         |     说明      |
+|:---------------------------------------------------------------------------------:|:-----------:|
+|       [matching_values.rs](src/example/pattern_matching/matching_values.rs)       |     匹配值     |
+|        [deconstruct.rs](src/example/pattern_matching/deconstruct_match.rs)        |     解构      |
+|      [let_control_flow.rs](src/example/pattern_matching/let_control_flow.rs)      | **let 控制流** |
+| [expression_evaluation.rs](src/example/pattern_matching/expression_evaluation.rs) |   **练习题**   |
