@@ -152,3 +152,7 @@ path = "src/example/pattern_matching/expression_evaluation.rs"
 [[example]]
 name = "methods"
 path = "src/example/method_traits/methods.rs"
+
+[[example]]
+name = "traits"
+path = "src/example/method_traits/traits.rs"

@@ -1,3 +1,9 @@
+/// ```
+/// # 启动命令
+///  cargo run --example methods
+///
+/// ```
+
 struct Race {
     name: String,
     laps: Vec<i32>,

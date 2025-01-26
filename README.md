@@ -74,6 +74,7 @@
 
 #### [方法和特征](src/example/method_traits)
 
-|                         页面                         | 说明 |
-|:--------------------------------------------------:|:--:|
-| [methods.rs](src/example/method_traits/methods.rs) | 方法 |
+|                         页面                         |  说明  |
+|:--------------------------------------------------:|:----:|
+| [methods.rs](src/example/method_traits/methods.rs) |  方法  |
+|  [traits.rs](src/example/method_traits/traits.rs)  | 实现特征 |
