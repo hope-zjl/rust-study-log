@@ -33,3 +33,7 @@ fn main() {
     };
     fido.greet();
 }
+
+fn _more() {
+    todo!("需要更多练习")
+}

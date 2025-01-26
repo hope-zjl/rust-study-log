@@ -19,3 +19,7 @@ fn compute_digest(text: &str) -> [u8; DIGEST_SIZE] {
     }
     digest
 }
+
+fn _more() {
+    todo!("需要更多练习")
+}
