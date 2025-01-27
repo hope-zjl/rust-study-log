@@ -5,7 +5,7 @@
 /// ```
 
 trait Pet {
-    // 接口
+    // 接口定义
     fn talk(&self) -> String;
     fn greet(&self) {
         println!("输出内容: {}", self.talk())
