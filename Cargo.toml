@@ -156,3 +156,7 @@ path = "src/example/method_traits/methods.rs"
 [[example]]
 name = "traits"
 path = "src/example/method_traits/traits.rs"
+
+[[example]]
+name = "more_traits"
+path = "src/example/method_traits/more_traits.rs"

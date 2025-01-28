@@ -78,3 +78,4 @@
 |:--------------------------------------------------:|:----:|
 | [methods.rs](src/example/method_traits/methods.rs) |  方法  |
 |  [traits.rs](src/example/method_traits/traits.rs)  | 实现特征 |
+|  [traits.rs](src/example/method_traits/more_traits.rs)  | 更多特征 |
