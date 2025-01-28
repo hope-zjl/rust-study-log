@@ -5,6 +5,7 @@
 /// ```
 
 trait Animal {
+    // 定义接口
     fn leg_count(&self) -> u32;
 }
 
@@ -13,15 +14,18 @@ trait Pet: Animal {
     fn name(&self) -> String;
 }
 
+// 定义结构体
 struct Dog(String);
 
 impl Animal for Dog {
+    // 实现接口
     fn leg_count(&self) -> u32 {
         4
     }
 }
 
 impl Pet for Dog {
+    // 实现接口
     fn name(&self) -> String {
         self.0.clone()
     }
