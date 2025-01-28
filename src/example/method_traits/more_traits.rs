@@ -35,3 +35,7 @@ fn main() {
     let puppy = Dog(String::from("Rex"));
     println!("够够的名字：{}, 狗狗的年龄：{}", puppy.name(), puppy.leg_count());
 }
+
+fn _mores() {
+    todo!("需要多练习")
+}
