@@ -8,6 +8,7 @@ trait Animal {
     fn leg_count(&self) -> u32;
 }
 
+// 继承Animal
 trait Pet: Animal {
     fn name(&self) -> String;
 }
