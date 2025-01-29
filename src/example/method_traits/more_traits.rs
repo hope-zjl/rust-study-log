@@ -34,6 +34,12 @@ impl Pet for Dog {
 fn main() {
     let puppy = Dog(String::from("Rex"));
     println!("够够的名字：{}, 狗狗的年龄：{}", puppy.name(), puppy.leg_count());
+
+    let mut x = 0;
+    for i in 1..101 {
+        x += i;
+    }
+    println!("{}", x);
 }
 
 fn _mores() {
