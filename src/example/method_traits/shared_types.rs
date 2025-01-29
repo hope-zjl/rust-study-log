@@ -25,3 +25,7 @@ impl Multiply for Meters {
 fn main() {
     println!("{:?}", Meters(10).multiply(&Meters(20)));
 }
+
+fn _mores() {
+    todo!("更多练习")
+}
