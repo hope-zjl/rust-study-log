@@ -80,6 +80,7 @@
 |  [traits.rs](src/example/method_traits/traits.rs)  | 实现特征 |
 |  [traits.rs](src/example/method_traits/more_traits.rs)  | 更多特征 |
 |  [traits.rs](src/example/method_traits/shared_types.rs)  | 共享类型 |
+|  [traits.rs](src/example/method_traits/derived_traits.rs)  | 派生特征 |
 
 ----
 
