@@ -24,6 +24,7 @@ impl Multiply for Meters {
 
 fn main() {
     println!("{:?}", Meters(10).multiply(&Meters(20)));
+    println!("{:?}", MetersSquared(20).0);
 }
 
 fn _mores() {
