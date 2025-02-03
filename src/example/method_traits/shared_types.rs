@@ -9,11 +9,13 @@ struct Meters(i32);
 #[derive(Debug)]
 struct MetersSquared(i32);
 
+// 接口
 trait Multiply {
     type Output;
     fn multiply(&self, other: &Self) -> Self::Output;
 }
 
+// 接口实现
 impl Multiply for Meters {
     type Output = MetersSquared;
 
