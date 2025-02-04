@@ -82,6 +82,7 @@
 |   [traits.rs](src/example/method_traits/shared_types.rs)   | 共享类型 |
 |  [traits.rs](src/example/method_traits/derived_traits.rs)  | 派生特征 |
 | [traits_logs.rs](src/example/method_traits/traits_logs.rs) | 练习题  |
+|  [traits_logs.rs](src/example/method_traits/generics.rs)   | 泛型函数 |
 
 ----
 
