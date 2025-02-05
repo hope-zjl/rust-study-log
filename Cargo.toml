@@ -176,3 +176,7 @@ path = "src/example/method_traits/traits_logs.rs"
 [[example]]
 name = "generics"
 path = "src/example/method_traits/generics.rs"
+
+[[example]]
+name = "generics_type"
+path = "src/example/method_traits/generics_type.rs"
