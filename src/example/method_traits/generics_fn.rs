@@ -1,6 +1,6 @@
 /// ```
 /// # 启动命令
-///  cargo run --example generics
+///  cargo run --example generics_fn
 ///
 /// ```
 

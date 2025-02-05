@@ -174,8 +174,8 @@ name = "traits_logs"
 path = "src/example/method_traits/traits_logs.rs"
 
 [[example]]
-name = "generics"
-path = "src/example/method_traits/generics.rs"
+name = "generics_fn"
+path = "src/example/method_traits/generics_fn.rs"
 
 [[example]]
 name = "generics_type"
