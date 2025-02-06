@@ -19,9 +19,16 @@ impl From<String> for Foo {
     }
 }
 
+impl From<bool> for Foo {
+    fn from(x: bool) -> Foo {
+        Foo(format!("bool:  {}", x))
+    }
+}
+
 fn main() {
     let u = Foo::from(20);
     let s = Foo::from("hello".to_string());
+    let b = Foo::from(true);
 
-    println!("{u:?}, {s:?}, \n {}, \n {}", u.0, s.0);
+    println!("{u:?}, {s:?}, {b:?}, \n {}, \n {}, \n {}", u.0, s.0, b.0);
 }
