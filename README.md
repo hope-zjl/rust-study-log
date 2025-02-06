@@ -84,6 +84,7 @@
 |  [traits_logs.rs](src/example/method_traits/traits_logs.rs)  | 练习题  |
 |  [traits_logs.rs](src/example/method_traits/generics_fn.rs)  | 泛型函数 |
 | [traits_logs.rs](src/example/method_traits/generics_type.rs) | 泛型类型 |
+|   [traits_logs.rs](src/example/method_traits/generics.rs)    |  泛型  |
 
 ----
 
