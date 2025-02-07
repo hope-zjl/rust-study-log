@@ -74,17 +74,18 @@
 
 #### [方法和特征](src/example/method_traits)
 
-|                              页面                              |  说明  |
-|:------------------------------------------------------------:|:----:|
-|      [methods.rs](src/example/method_traits/methods.rs)      |  方法  |
-|       [traits.rs](src/example/method_traits/traits.rs)       | 实现特征 |
-|    [traits.rs](src/example/method_traits/more_traits.rs)     | 更多特征 |
-|    [traits.rs](src/example/method_traits/shared_types.rs)    | 共享类型 |
-|   [traits.rs](src/example/method_traits/derived_traits.rs)   | 派生特征 |
-|  [traits_logs.rs](src/example/method_traits/traits_logs.rs)  | 练习题  |
-|  [traits_logs.rs](src/example/method_traits/generics_fn.rs)  | 泛型函数 |
-| [traits_logs.rs](src/example/method_traits/generics_type.rs) | 泛型类型 |
-|   [traits_logs.rs](src/example/method_traits/generics.rs)    |  泛型  |
+|                               页面                                |  说明  |
+|:---------------------------------------------------------------:|:----:|
+|       [methods.rs](src/example/method_traits/methods.rs)        |  方法  |
+|        [traits.rs](src/example/method_traits/traits.rs)         | 实现特征 |
+|      [traits.rs](src/example/method_traits/more_traits.rs)      | 更多特征 |
+|     [traits.rs](src/example/method_traits/shared_types.rs)      | 共享类型 |
+|    [traits.rs](src/example/method_traits/derived_traits.rs)     | 派生特征 |
+|   [traits_logs.rs](src/example/method_traits/traits_logs.rs)    | 练习题  |
+|   [traits_logs.rs](src/example/method_traits/generics_fn.rs)    | 泛型函数 |
+|  [traits_logs.rs](src/example/method_traits/generics_type.rs)   | 泛型类型 |
+|     [traits_logs.rs](src/example/method_traits/generics.rs)     |  泛型  |
+| [traits_logs.rs](src/example/method_traits/feature_boundary.rs) | 特征边界 |
 
 ----
 
