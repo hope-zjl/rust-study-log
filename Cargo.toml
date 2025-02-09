@@ -188,3 +188,7 @@ path = "src/example/method_traits/generics.rs"
 [[example]]
 name = "feature_boundary"
 path = "src/example/method_traits/feature_boundary.rs"
+
+[[example]]
+name = "generics_impl_traits"
+path = "src/example/method_traits/generics_impl_traits.rs"
