@@ -192,3 +192,7 @@ path = "src/example/method_traits/feature_boundary.rs"
 [[example]]
 name = "generics_impl_traits"
 path = "src/example/method_traits/generics_impl_traits.rs"
+
+[[example]]
+name = "min_fn"
+path = "src/example/method_traits/min_fn.rs"

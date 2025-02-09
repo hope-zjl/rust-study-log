@@ -87,6 +87,7 @@
 |           [traits_logs.rs](src/example/method_traits/generics.rs)            |     泛型     |
 |       [traits_logs.rs](src/example/method_traits/feature_boundary.rs)        |    特征边界    |
 | [generics_impl_traits.rs](src/example/method_traits/generics_impl_traits.rs) | impl Trait |
+|               [min_fn.rs](src/example/method_traits/min_fn.rs)               |    练习题     |
 
 ----
 
