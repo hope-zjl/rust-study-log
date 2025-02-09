@@ -20,3 +20,8 @@ fn main() {
     let debuggable = pair_of(27);
     println!("{debuggable:?}");
 }
+
+
+fn _more() {
+    todo!("需要多练习   * 这里有很多我都是跟文档写了 有些代码我目前还是看不懂 * ")
+}
