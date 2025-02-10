@@ -7,6 +7,7 @@
 - [用户定义类型](#用户定义类型)
 - [模式匹配](#模式匹配)
 - [方法和特征](#方法和特征)
+- [标准库类型](#标准库类型)
 
 #### [类型和值](src/example/type_value)
 
@@ -88,6 +89,12 @@
 |       [traits_logs.rs](src/example/method_traits/feature_boundary.rs)        |    特征边界    |
 | [generics_impl_traits.rs](src/example/method_traits/generics_impl_traits.rs) | impl Trait |
 |               [min_fn.rs](src/example/method_traits/min_fn.rs)               |    练习题     |
+
+#### [标准库类型](src/example/standard_type)
+
+|                                 页面                                 |   说明   |
+|:------------------------------------------------------------------:|:------:|
+| [standard_option.rs](src/example/standard_type/standard_option.rs) | Option |
 
 ----
 
