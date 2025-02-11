@@ -92,9 +92,10 @@
 
 #### [标准库类型](src/example/standard_type)
 
-|                                 页面                                 |   说明   |
-|:------------------------------------------------------------------:|:------:|
-| [standard_option.rs](src/example/standard_type/standard_option.rs) | Option |
+|                                  页面                                  |   说明   |
+|:--------------------------------------------------------------------:|:------:|
+|  [standard_option.rs](src/example/standard_type/standard_option.rs)  | Option |
+| [standard_results.rs](src/example/standard_type/standard_results.rs) | Result |
 
 ----
 

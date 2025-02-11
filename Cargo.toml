@@ -200,3 +200,7 @@ path = "src/example/method_traits/min_fn.rs"
 [[example]]
 name = "standard_option"
 path = "src/example/standard_type/standard_option.rs"
+
+[[example]]
+name = "standard_results"
+path = "src/example/standard_type/standard_results.rs"
