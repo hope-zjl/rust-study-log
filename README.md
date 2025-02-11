@@ -96,6 +96,7 @@
 |:--------------------------------------------------------------------:|:------:|
 |  [standard_option.rs](src/example/standard_type/standard_option.rs)  | Option |
 | [standard_results.rs](src/example/standard_type/standard_results.rs) | Result |
+|  [standard_string.rs](src/example/standard_type/standard_string.rs)  | String |
 
 ----
 
