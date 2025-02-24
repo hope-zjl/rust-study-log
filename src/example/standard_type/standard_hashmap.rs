@@ -31,5 +31,21 @@ fn main() {
         *page_count += 1;
     }
 
+    let pc1 = page_counts
+        .get("Harry Potter and the Sorcerer's Stone")
+        .unwrap_or(&336);
+    println!("{pc1:?}");
+
+    let pc2 = page_counts.entry("The Hunger Games").or_insert(374);
+    println!("{pc2:?}");
+
     println!("{page_counts:#?}");
+
+    // 数组初始化哈希映射
+    let page_counts2 = HashMap::from([
+        ("Harry Potter and the Sorcerer's Stone".to_string(), 336),
+        ("The Hunger Games".to_string(), 374),
+    ]);
+
+    println!("{page_counts2:?}");
 }
