@@ -92,12 +92,13 @@
 
 #### [标准库类型](src/example/standard_type)
 
-|                                  页面                                  |   说明   |
-|:--------------------------------------------------------------------:|:------:|
-|  [standard_option.rs](src/example/standard_type/standard_option.rs)  | Option |
-| [standard_results.rs](src/example/standard_type/standard_results.rs) | Result |
-|  [standard_string.rs](src/example/standard_type/standard_string.rs)  | String |
-|     [standard_vec.rs](src/example/standard_type/standard_vec.rs)     |  Vec   |
+|                                  页面                                  |   说明    |
+|:--------------------------------------------------------------------:|:-------:|
+|  [standard_option.rs](src/example/standard_type/standard_option.rs)  | Option  |
+| [standard_results.rs](src/example/standard_type/standard_results.rs) | Result  |
+|  [standard_string.rs](src/example/standard_type/standard_string.rs)  | String  |
+|     [standard_vec.rs](src/example/standard_type/standard_vec.rs)     |   Vec   |
+| [standard_hashmap.rs](src/example/standard_type/standard_hashmap.rs) | HashMap |
 
 ----
 

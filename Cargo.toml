@@ -212,3 +212,7 @@ path = "src/example/standard_type/standard_string.rs"
 [[example]]
 name = "standard_vec"
 path = "src/example/standard_type/standard_vec.rs"
+
+[[example]]
+name = "standard_hashmap"
+path = "src/example/standard_type/standard_hashmap.rs"
