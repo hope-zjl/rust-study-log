@@ -99,6 +99,7 @@
 |  [standard_string.rs](src/example/standard_type/standard_string.rs)  | String  |
 |     [standard_vec.rs](src/example/standard_type/standard_vec.rs)     |   Vec   |
 | [standard_hashmap.rs](src/example/standard_type/standard_hashmap.rs) | HashMap |
+| [standard_hashmap.rs](src/example/standard_type/standard_counter.rs) | HashMap |
 
 ----
 
